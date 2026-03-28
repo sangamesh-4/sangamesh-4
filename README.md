@@ -1,74 +1,52 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sangamesh+👋;Data+Science+Enthusiast;Machine+Learning+Engineer;Building+Impactful+ML+Models" />
-</p>
+# Sangamesh | Data Scientist & ML Engineer 🚀
+> **Building end-to-end Machine Learning systems that turn complex data into decisive actions.**
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://ai-studentplacementpredictor-2421.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
-</p>
-
----
-
-## ⚡ Quick Summary
-> **"Turning raw data into actionable intelligence through end-to-end ML pipelines."**
-
-- 🔭 **Focus:** Building robust, scalable Machine Learning systems.
-- 🎓 **Flagship Project:** Developed a **Student Placement Predictor** with 9X% accuracy (Live on Streamlit).
-- 🛠️ **Current Mission:** Mastering **MLOps** and Feature Engineering to bridge the gap between notebooks and production.
-
----
-
-## 🛠️ The Data Science Toolkit
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,seaborn,mysql,streamlit,git,docker,aws" />
-  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sangamesh-4"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 Featured Work: Student Placement Predictor
-<table align="center">
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangamesh-4&repo=student-placement-predictor&theme=tokyonight" alt="Project Card" />
-      </p>
-    </td>
-    <td width="50%">
-      <b>Key Contributions:</b><br/>
-      • <b>Preprocessing:</b> Handled missing data & categorical encoding.<br/>
-      • <b>Modelling:</b> Optimized Logistic Regression/SVM for high precision.<br/>
-      • <b>Deployment:</b> Created a seamless UI using Streamlit.<br/>
-      <br/>
-      🔗 <a href="https://ai-studentplacementpredictor-2421.streamlit.app/"><b>View Live Dashboard</b></a>
-    </td>
-  </tr>
-</table>
+## 🏗️ Portfolio: Live ML Applications
+*Explore my latest end-to-end deployments:*
+
+| Project | Tech Stack | Live Demo |
+| :--- | :--- | :--- |
+| **🎓 Student Placement Predictor** | `Python` `Scikit-Learn` `Streamlit` | [**Launch App** 🚀](https://ai-studentplacementpredictor-2421.streamlit.app/) |
+| **🩸 Diabetes Prediction System** | `ML Pipelines` `Pandas` `Streamlit` | [**Launch App** 🚀](https://ai-based-diabetes-prediction-system-0121.streamlit.app/) |
+| **⏳ Coming Soon...** | `Deep Learning` `PyTorch` | `In Development` |
 
 ---
 
-## 📈 Engineering Insights
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sangamesh-4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-4&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🛠️ Technical Ecosystem
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+## 📈 Engineering Dashboard
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sangamesh-4&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangamesh-4&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-4&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 Activity Map
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-4&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
+## 🌱 Currently Mastering
+- **MLOps:** Moving from local notebooks to cloud-scale deployments.
+- **Deep Learning:** Exploring Neural Networks for predictive modeling.
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sangamesh-4&icon=5&color=6" /> <br/>
-  <i>Let's build something smarter together.</i>
+  <img src="https://visitcount.itsvg.in/api?id=sangamesh-4&icon=5&color=6" /> 
+  <br/>
+  <b>Let's build the future of data, one commit at a time.</b>
 </p>

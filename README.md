@@ -32,12 +32,12 @@
 
 ## 📈 Engineering Dashboard
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sangamesh-4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-4&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sangamesh-4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sangamesh's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamesh-4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-4&theme=tokyonight&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-4&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---

@@ -16,6 +16,7 @@
 | :--- | :--- | :--- |
 | **🎓 Student Placement Predictor** | `Python` `Scikit-Learn` `Streamlit` | [**Launch App** 🚀](https://ai-studentplacementpredictor-2421.streamlit.app/) |
 | **🩸 Diabetes Prediction System** | `ML Pipelines` `Pandas` `Streamlit` | [**Launch App** 🚀](https://ai-based-diabetes-prediction-system-0121.streamlit.app/) |
+| **🏦 Bengaluru Hybrid Economic Intelligence AI** | `LangChain` `RAG` `Groq LLaMA 3` `ChromaDB` `Streamlit` | [**Launch App** 🚀](https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app/) |
 | **⏳ Coming Soon...** | `Deep Learning` `PyTorch` | `In Development` |
 
 ---

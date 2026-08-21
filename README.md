@@ -1,4 +1,4 @@
-# H Sangamesh | Data Scientist • AI/ML Engineer 🚀
+# H Sangamesh | Data Scientist • AI/ML Engineer 
 
 > **Building intelligent, data-driven applications across Machine Learning, Generative AI, RAG, and Software Engineering.**
 

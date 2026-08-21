@@ -18,13 +18,11 @@
 
 ## 👋 About
 
-I’m a **Computer Science & Engineering (Data Science)** student and **Data Science Intern at Ai Variant**, focused on building practical AI and data-driven systems.
+I’m a **Data Scientist and AI/ML Engineer** focused on building scalable, reliable, and user-centric intelligent applications using **Python and modern AI technologies**.
 
-My work spans **Machine Learning, Generative AI, LLMs, RAG, GraphRAG, NLP, Data Analysis, API Development, and Software Engineering**.
+Experienced across the **end-to-end development lifecycle**, with hands-on experience in **Machine Learning, Generative AI, LLMs, RAG, GraphRAG, NLP, REST APIs, databases, data analysis, testing, debugging, and deployment**.
 
-I enjoy taking ideas from **data and models to working applications** — combining experimentation, retrieval systems, backend APIs, and deployment into usable solutions.
-
----
+I enjoy transforming complex data and business problems into **practical, production-oriented solutions**, with a strong focus on maintainable systems, efficient pipelines, reliable retrieval, and real-world application development.
 
 ## 💼 Experience
 

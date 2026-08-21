@@ -1,156 +1,375 @@
-# H Sangamesh | AI/ML Engineer
+# H Sangamesh
 
-> **Building intelligent applications across Machine Learning, Generative AI, Data Science, and Software Engineering.**
+### Data Scientist | AI/ML Engineer
 
-<p>
+> Building data-driven and intelligent applications across Machine Learning, Generative AI, RAG, NLP, and Software Engineering.
+
+<p align="center">
   <a href="https://sangamesh0121.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-1E293B?style=flat-square&logo=vercel&logoColor=white" />
+    🌐 <strong>Portfolio</strong>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/h-sangamesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-1E293B?style=flat-square&logo=linkedin&logoColor=white" />
+    💼 <strong>LinkedIn</strong>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/sangamesh-4">
-    <img src="https://img.shields.io/badge/GitHub-Work-1E293B?style=flat-square&logo=github&logoColor=white" />
+    💻 <strong>GitHub</strong>
   </a>
 </p>
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="50%">
 
-I'm a **Computer Science & Engineering (Data Science)** student and **Data Science Intern at Ai Variant**, focused on building practical AI and data-driven applications.
+### DATA
 
-My work spans **Machine Learning, Generative AI, RAG, GraphRAG, NLP, Data Analysis, API Development, and Software Engineering**.
+**Machine Learning**  
+Predictive Modeling • Feature Engineering  
+Model Evaluation • XGBoost • Scikit-learn
 
-I enjoy turning ideas into complete applications — from **data and models to intelligent retrieval systems, APIs, and deployed applications**.
+**Data Science**  
+Python • SQL • Pandas • NumPy  
+EDA • Statistical Analysis • Data Visualization
+
+</td>
+<td width="50%">
+
+### INTELLIGENCE
+
+**Generative AI**  
+LLMs • RAG • GraphRAG • NLP  
+LangChain • LangGraph • Vector Retrieval
+
+**Knowledge Systems**  
+Neo4j • ChromaDB • Embeddings  
+Knowledge Graphs • Contextual Retrieval
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Experience
+## 👨‍💻 About
+
+I'm a **Computer Science & Engineering (Data Science)** graduate focused on building practical solutions with data, machine learning, and artificial intelligence.
+
+Currently experienced in developing **AI-powered applications, retrieval systems, knowledge graphs, machine learning workflows, and API-based services**.
+
+My approach combines:
+
+**Data → Models → Intelligence → APIs → Applications**
+
+I enjoy taking a problem from an initial dataset or business requirement through **analysis, modeling, intelligent retrieval, application development, and deployment**.
+
+---
+
+## 💼 Experience
 
 ### Data Science Intern — Ai Variant
+
 **Bengaluru · 2026**
 
-- Developed AI-powered applications using **Python, LLMs and RAG workflows**.
-- Built **Neo4j knowledge graphs and vector retrieval pipelines** for contextual search.
-- Worked with **GraphRAG, document ingestion, retrieval workflows and API services**.
-- Tested, optimized and integrated features using **Git/GitHub**.
+Worked on AI and data-driven application development across:
 
-`Python` `LLMs` `RAG` `GraphRAG` `Neo4j` `APIs` `Git`
+- AI-powered applications using **Python, LLMs, and RAG workflows**
+- **Neo4j knowledge graphs** and vector retrieval pipelines
+- **GraphRAG-based contextual search**
+- Document ingestion and retrieval workflows
+- API-based services for intelligent applications
+- Testing, optimization and feature integration using **Git/GitHub**
+
+**Core environment**
+
+`Python` `LLMs` `RAG` `GraphRAG` `Neo4j` `Vector Retrieval` `APIs` `Git`
 
 ---
 
-## Selected Projects
+# 🚀 Selected Projects
 
-### 🏦 Bengaluru Hybrid Economic Intelligence AI
-AI-powered economic intelligence platform using **RAG, semantic retrieval and LLMs** to generate source-backed insights from RBI documents.
+<table>
+<tr>
+<td width="50%">
 
-`Python` `LangChain` `RAG` `ChromaDB` `LLaMA` `Streamlit`
+### 🏦 Economic Intelligence AI
 
-[Live Application](https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app/) ·
-[Source Code](https://github.com/sangamesh-4/HYBRID-GRAPH-RAG-ECONOMIC-INTELLIGENCE-PLATFORM)
+**Bengaluru Hybrid Economic Intelligence AI**
+
+AI-powered economic intelligence platform designed to analyze RBI documents and generate structured, source-backed insights.
+
+**Built with**
+
+`Python` `RAG` `LangChain`  
+`ChromaDB` `LLaMA` `Streamlit`
+
+<br>
+
+<a href="https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app/">
+▶ Live Application
+</a>
+
+<br>
+
+<a href="https://github.com/sangamesh-4/HYBRID-GRAPH-RAG-ECONOMIC-INTELLIGENCE-PLATFORM">
+⌘ Source Code
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🚗 AutoIntel-AI
-Machine learning platform for **used-car valuation**, combining feature engineering, multiple regression models and an interactive application.
 
-`Python` `XGBoost` `Scikit-learn` `Streamlit`
+**AI-Powered Used Car Valuation**
 
-[Live Application](https://cars24-ml-project-sh0121.streamlit.app/) ·
-[Source Code](https://github.com/sangamesh-4/AutoIntel-AI)
+Machine learning application for used-car price prediction with feature engineering, model comparison, evaluation and interactive deployment.
+
+**Built with**
+
+`Python` `XGBoost`  
+`Scikit-learn` `Pandas` `Streamlit`
+
+<br>
+
+<a href="https://cars24-ml-project-sh0121.streamlit.app/">
+▶ Live Application
+</a>
+
+<br>
+
+<a href="https://github.com/sangamesh-4/AutoIntel-AI">
+⌘ Source Code
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🤖 AIVOA.AI
-AI-powered application developed as part of a **Full Stack AI Applications** project, combining intelligent workflows with modern web application architecture.
 
-`Python` `React` `AI/ML` `LLMs`
+AI-powered CRM application developed around intelligent workflows and AI-assisted interaction management.
 
-### 📊 PMO Reporting Agent
-AI-driven workflow focused on **project reporting, data processing and intelligent business insights**.
+**Built with**
 
-`Python` `AI` `Data Analysis`
+`React` `FastAPI` `LangGraph`  
+`LLMs` `Python`
 
-### 🚦 Arduino-Based Traffic Control System
-Real-time traffic management prototype using **vehicle-density detection and dynamic signal control**.
+</td>
 
-`Arduino` `C/C++` `Ultrasonic Sensors` `Embedded Systems`
+<td width="50%">
+
+### 🚦 Smart Traffic Control
+
+Real-time density-based traffic control prototype using vehicle detection to dynamically manage traffic signal timing.
+
+**Built with**
+
+`Arduino` `C/C++`  
+`Ultrasonic Sensors` `Embedded Systems`
+
+**Recognition**
+
+Top 100 among 1,000+ university projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Focus
+# 🧠 Technical Stack
 
-**Languages**
+### Programming
 
 `Python` `SQL` `JavaScript` `C/C++`
 
-**AI & Machine Learning**
+### Data Science & Machine Learning
 
-`Machine Learning` `Predictive Modeling` `XGBoost` `Scikit-learn`
-`TensorFlow` `PyTorch` `Feature Engineering`
+`Machine Learning` `Predictive Modeling`  
+`Feature Engineering` `XGBoost` `Scikit-learn`  
+`TensorFlow` `PyTorch` `Model Evaluation`  
+`EDA` `Statistical Data Analysis`
 
-**Generative AI**
+### Generative AI & NLP
 
-`LLMs` `RAG` `GraphRAG` `NLP` `LangChain`
-`LangGraph` `Embeddings` `Vector Retrieval` `Knowledge Graphs`
+`LLMs` `RAG` `GraphRAG` `NLP`  
+`LangChain` `LangGraph`  
+`Embeddings` `Vector Retrieval`  
+`Knowledge Graphs`
 
-**Data & Databases**
+### Data & Databases
 
-`Pandas` `NumPy` `PostgreSQL` `Neo4j` `ChromaDB`
+`Pandas` `NumPy` `PostgreSQL`  
+`Neo4j` `ChromaDB`  
 `Power BI` `DAX` `Excel`
 
-**Software Engineering**
+### Software Engineering
 
-`Django` `REST APIs` `React.js` `HTML` `CSS`
-`Git` `GitHub` `SDLC` `Application Testing`
+`Django` `FastAPI` `REST APIs`  
+`React.js` `HTML5` `CSS`  
+`Git` `GitHub`  
+`SDLC` `Application Testing`
 
 ---
 
-## Research
+# 🔬 Research
 
 ### Identification of Algorithm Using AI/ML Dataset
 
-**JETIR · 2025**
+**Journal of Emerging Technologies and Innovative Research (JETIR) · 2025**
 
-Research work exploring algorithm identification using AI/ML datasets.
+Research publication focused on identifying algorithms using AI/ML datasets.
 
-[Read Publication](https://www.jetir.org/view?paper=JETIR2511252)
+**Publication**
 
----
-
-## Achievements
-
-- 🏆 **Top 100** university projects out of 1,000+ projects
-- 🏅 **Top 5%** in SQL — HackerRank
-- 🏆 **Best Final Year Project** recognition
-- 📜 **NASSCOM Certification**
-- 🔬 **JETIR Research Publication — 2025**
+<a href="https://www.jetir.org/view?paper=JETIR2511252">
+View Research Publication →
+</a>
 
 ---
 
-## Education
+# 🏆 Achievements
 
-**Presidency University, Bengaluru**
+<table>
+<tr>
+<td align="center" width="25%">
 
-B.Tech — Computer Science & Engineering (Data Science)  
-**2026 · CGPA 6.71/10**
+### 🏅
+
+**Top 5%**
+
+SQL HackerRank Challenge
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆
+
+**Top 100**
+
+University Projects
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎓
+
+**Best Project**
+
+Final Year Recognition
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔬
+
+**Published**
+
+JETIR Research
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Exploring
+# 📜 Certifications
 
-`Generative AI` · `RAG Systems` · `Machine Learning Engineering`
-· `MLOps` · `Cloud` · `Scalable AI Applications`
+**NASSCOM Certification**  
+**Google Data Analytics Professional Certificate**  
+**SQL — HackerRank**  
+**Data Science Certifications**
 
 ---
 
-## Portfolio
+# 🎓 Education
 
-### [sangamesh0121.vercel.app](https://sangamesh0121.vercel.app/)
+### Presidency University, Bengaluru
 
-A complete overview of my **experience, projects, technical skills, research and work**.
+**B.Tech — Computer Science & Engineering (Data Science)**
+
+`2022 – 2026` &nbsp; | &nbsp; **CGPA: 6.71 / 10**
+
+---
+
+# ⚡ Current Focus
+
+<table>
+<tr>
+<td>
+
+**01**
+
+### Generative AI
+
+RAG • GraphRAG • LLM Applications
+
+</td>
+
+<td>
+
+**02**
+
+### Machine Learning
+
+Model Development • Evaluation • Deployment
+
+</td>
+
+<td>
+
+**03**
+
+### Engineering
+
+APIs • Backend • Scalable Applications
+
+</td>
+
+<td>
+
+**04**
+
+### MLOps
+
+Cloud • Containers • CI/CD • Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 Explore My Work
+
+### Portfolio
+
+**[sangamesh0121.vercel.app](https://sangamesh0121.vercel.app/)**
+
+My portfolio brings together my:
+
+**Experience · Projects · Research · Skills · Certifications · Work**
 
 ---
 
 <p align="center">
-  <strong>Building intelligent systems from data to deployment.</strong>
+
+### Let's build intelligent systems from data to deployment.
+
+**Data Science · Machine Learning · Generative AI · Software Engineering**
+
+<br>
+
+<a href="https://sangamesh0121.vercel.app/">
+<strong>Explore Portfolio →</strong>
+</a>
+
 </p>

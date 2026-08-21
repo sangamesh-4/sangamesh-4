@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sangamesh-4">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Work-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -48,10 +48,10 @@ AI-powered economic intelligence platform that retrieves relevant RBI documents 
 
 <p>
   <a href="https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app/">
-    <img src="https://img.shields.io/badge/▶%20Live%20Application-2563EB?style=for-the-badge" alt="Live Application"/>
+    <img src="https://img.shields.io/badge/▶%20Live%20Application-FF4B4B?style=for-the-badge" alt="Live Application"/>
   </a>
   <a href="https://github.com/sangamesh-4/HYBRID-GRAPH-RAG-ECONOMIC-INTELLIGENCE-PLATFORM">
-    <img src="https://img.shields.io/badge/⌘%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/⌘%20Source%20Code-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
 </p>
 
@@ -65,10 +65,10 @@ End-to-end machine learning application for used-car resale estimation, covering
 
 <p>
   <a href="https://cars24-ml-project-sh0121.streamlit.app/">
-    <img src="https://img.shields.io/badge/▶%20Live%20Application-2563EB?style=for-the-badge" alt="Live Application"/>
+    <img src="https://img.shields.io/badge/▶%20Live%20Application-FF4B4B?style=for-the-badge" alt="Live Application"/>
   </a>
   <a href="https://github.com/sangamesh-4/AutoIntel-AI">
-    <img src="https://img.shields.io/badge/⌘%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/⌘%20Source%20Code-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
 </p>
 
@@ -163,7 +163,7 @@ Presidency University, Bengaluru · **2026**
 </a>
 
 <a href="https://github.com/sangamesh-4">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>

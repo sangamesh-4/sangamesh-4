@@ -2,10 +2,16 @@
 
 > **Building intelligent, data-driven applications across Machine Learning, Generative AI, RAG, and Software Engineering.**
 
-<p>
-  <a href="https://sangamesh0121.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/h-sangamesh/">LinkedIn</a> ·
-  <a href="https://github.com/sangamesh-4">GitHub</a>
+<p align="center">
+  <a href="https://sangamesh0121.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-2563EB?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/h-sangamesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sangamesh-4">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -35,26 +41,41 @@ I enjoy taking ideas from **data and models to working applications** — combin
 ## 🚀 Selected Projects
 
 ### 🏦 Bengaluru Hybrid Economic Intelligence AI
+
 **RAG · LLMs · ChromaDB · SentenceTransformers · Groq · Streamlit**
 
 AI-powered economic intelligence platform that retrieves relevant RBI documents and generates structured, source-backed insights on **inflation, GDP, and monetary policy**.
 
-**Live:** https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app/  
-**Repository:** https://github.com/sangamesh-4/HYBRID-GRAPH-RAG-ECONOMIC-INTELLIGENCE-PLATFORM
+<p>
+  <a href="https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app/">
+    <img src="https://img.shields.io/badge/▶%20Live%20Application-2563EB?style=for-the-badge" alt="Live Application"/>
+  </a>
+  <a href="https://github.com/sangamesh-4/HYBRID-GRAPH-RAG-ECONOMIC-INTELLIGENCE-PLATFORM">
+    <img src="https://img.shields.io/badge/⌘%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 ---
 
 ### 🚗 AutoIntel-AI — Used Car Valuation Platform
+
 **Python · XGBoost · Scikit-learn · Feature Engineering · Streamlit**
 
 End-to-end machine learning application for used-car resale estimation, covering preprocessing, feature engineering, model evaluation, inference, and interactive deployment.
 
-**Live:** https://cars24-ml-project-sh0121.streamlit.app/  
-**Repository:** https://github.com/sangamesh-4/AutoIntel-AI
+<p>
+  <a href="https://cars24-ml-project-sh0121.streamlit.app/">
+    <img src="https://img.shields.io/badge/▶%20Live%20Application-2563EB?style=for-the-badge" alt="Live Application"/>
+  </a>
+  <a href="https://github.com/sangamesh-4/AutoIntel-AI">
+    <img src="https://img.shields.io/badge/⌘%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 ---
 
 ### 🚦 Arduino-Based Traffic Control System
+
 **Arduino Uno · C/C++ · Ultrasonic Sensors · Embedded Systems**
 
 Real-time density-based traffic control prototype that dynamically adjusts signal timing using vehicle-density measurements rather than fixed intervals.
@@ -66,25 +87,40 @@ Real-time density-based traffic control prototype that dynamically adjusts signa
 ## 🔬 Research
 
 ### Identification of Algorithm Using AI/ML Dataset
+
 **JETIR · 2025**
 
 Research publication focused on identifying algorithms from AI/ML datasets.
 
-**Publication:** https://www.jetir.org/view?paper=JETIR2511252
+<p>
+  <a href="https://www.jetir.org/view?paper=JETIR2511252">
+    <img src="https://img.shields.io/badge/📄%20View%20Publication-4F46E5?style=for-the-badge" alt="View Publication"/>
+  </a>
+</p>
 
 ---
 
 ## 🧠 Technical Focus
 
-**Data Science:** Python · SQL · Pandas · NumPy · EDA · Statistical Analysis · Data Visualization
+**Data Science**
 
-**Machine Learning:** Scikit-learn · XGBoost · Feature Engineering · Predictive Modeling · Model Evaluation
+`Python` · `SQL` · `Pandas` · `NumPy` · `EDA` · `Statistical Analysis` · `Data Visualization`
 
-**Generative AI:** LLMs · RAG · GraphRAG · NLP · LangChain · LangGraph · Vector Retrieval
+**Machine Learning**
 
-**Knowledge Systems:** Neo4j · ChromaDB · Embeddings · Knowledge Graphs · Contextual Retrieval
+`Scikit-learn` · `XGBoost` · `Feature Engineering` · `Predictive Modeling` · `Model Evaluation`
 
-**Engineering:** REST APIs · Git · GitHub · Streamlit · Application Deployment
+**Generative AI**
+
+`LLMs` · `RAG` · `GraphRAG` · `NLP` · `LangChain` · `LangGraph` · `Vector Retrieval`
+
+**Knowledge Systems**
+
+`Neo4j` · `ChromaDB` · `Embeddings` · `Knowledge Graphs` · `Contextual Retrieval`
+
+**Engineering**
+
+`REST APIs` · `Git` · `GitHub` · `Streamlit` · `Application Deployment`
 
 ---
 
@@ -114,11 +150,23 @@ Presidency University, Bengaluru · **2026**
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
-**Portfolio:** https://sangamesh0121.vercel.app/  
-**LinkedIn:** https://www.linkedin.com/in/h-sangamesh/  
-**GitHub:** https://github.com/sangamesh-4/
+<p align="center">
+
+<a href="https://sangamesh0121.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/h-sangamesh/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/sangamesh-4">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
 
 ---
 

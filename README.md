@@ -1,52 +1,218 @@
-# Sangamesh | Data Scientist & ML Engineer 🚀
-> **Building end-to-end Machine Learning systems that turn complex data into decisive actions.**
+# H Sangamesh
+
+### AI/ML Engineer | Generative AI | LLMs | RAG & GraphRAG | Software Development
+
+Building intelligent, production-oriented applications that combine
+Machine Learning, Generative AI, data, and software engineering.
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sangamesh-4"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://sangamesh0121.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/h-sangamesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sangamesh-4">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🏗️ Portfolio: Live ML Applications
-*Explore my latest end-to-end deployments:*
+## About
 
-| Project | Tech Stack | Live Demo |
-| :--- | :--- | :--- |
-| **🎓 Student Placement Predictor** | `Python` `Scikit-Learn` `Streamlit` | [**Launch App** 🚀](https://ai-studentplacementpredictor-2421.streamlit.app/) |
-| **🩸 Diabetes Prediction System** | `ML Pipelines` `Pandas` `Streamlit` | [**Launch App** 🚀](https://ai-based-diabetes-prediction-system-0121.streamlit.app/) |
-| **🏦 Bengaluru Hybrid Economic Intelligence AI** | `LangChain` `RAG` `Groq LLaMA 3` `ChromaDB` `Streamlit` | [**Launch App** 🚀](https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app/) |
-| **🚗 AutoIntel AI – Used Car Valuation Platform** | `XGBoost` `ML Pipelines` `Feature Engineering` `Streamlit` | [**Launch App** 🚀](https://cars24-ml-project-sh0121.streamlit.app/) |
-| **⏳ Coming Soon...** | `Deep Learning` `PyTorch` | `In Development` |
+I am an AI/ML Engineer focused on building intelligent software systems across
+Machine Learning, Generative AI, Retrieval-Augmented Generation, and data-driven
+applications.
 
----
+My work spans the complete development lifecycle — from data preparation and
+model development to retrieval pipelines, API-based services, application
+development, testing, and deployment.
 
-## 🛠️ Technical Ecosystem
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00a6ed?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![GenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
----
+I particularly enjoy working on systems where machine learning and software
+engineering come together to solve practical problems.
 
-## 📈 Engineering Dashboard
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sangamesh-4&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+### Core Focus
+
+- Generative AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- GraphRAG & intelligent retrieval systems
+- Machine Learning & Predictive Modeling
+- Natural Language Processing
+- Feature Engineering & Model Evaluation
+- Python-based application development
+- REST APIs & software development
+- Data analysis and visualization
 
 ---
 
-## 🌱 Currently Mastering
-- **MLOps:** Moving from local notebooks to cloud-scale deployments.
-- **Deep Learning:** Exploring Neural Networks for predictive modeling.
+## Professional Experience
+
+### Data Science Intern — Ai Variant
+**Bengaluru | 2026**
+
+- Developed AI-powered applications using Python, LLMs, and RAG workflows.
+- Built retrieval pipelines for intelligent information access and contextual
+  response generation.
+- Developed knowledge-driven retrieval architectures for domain-specific
+  information systems.
+- Designed API-based services supporting document ingestion, retrieval,
+  processing, and response generation.
+- Worked with vector retrieval, LLM-based workflows, and application
+  deployment.
+- Used Git-based development workflows for collaboration, testing, and
+  feature integration.
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sangamesh-4&icon=5&color=6" /> 
-  <br/>
-  <b>Let's build the future of data, one commit at a time.</b>
+## Selected Projects
+
+### 🏦 Bengaluru Hybrid Economic Intelligence AI
+
+An AI-powered economic intelligence platform designed to analyze RBI documents
+and generate structured, source-backed insights on inflation, GDP, and
+monetary policy.
+
+**Key capabilities**
+
+- Retrieval-Augmented Generation (RAG)
+- Semantic document retrieval
+- Vector search using Chroma
+- Document re-ranking
+- Multi-stage retrieval and generation pipeline
+- Structured AI responses with evidence and citations
+- LLM-powered economic analysis
+
+**Tech:** Python · RAG · LangChain · Chroma · SentenceTransformers ·
+Groq · LLaMA 3.1 · Streamlit
+
+🔗 [Live Demo](https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app/)
+
+🔗 [Source Code](https://github.com/sangamesh-4/HYBRID-GRAPH-RAG-ECONOMIC-INTELLIGENCE-PLATFORM)
+
+---
+
+### 🚗 AutoIntel-AI
+
+An end-to-end machine learning application for used-car valuation,
+combining feature engineering, model comparison, optimization, and
+real-time inference.
+
+**Key capabilities**
+
+- End-to-end ML pipeline
+- Domain-specific feature engineering
+- Regression model comparison
+- XGBoost optimization
+- Model evaluation
+- Real-time prediction
+- Interactive application deployment
+
+**Tech:** Python · Scikit-learn · XGBoost · Pandas · NumPy ·
+Feature Engineering · Streamlit
+
+🔗 [Live Demo](https://cars24-ml-project-sh0121.streamlit.app/)
+
+🔗 [Source Code](https://github.com/sangamesh-4/AutoIntel-AI)
+
+---
+
+### 🚦 Arduino-Based Traffic Control System
+
+A real-time traffic management prototype that dynamically adjusts signal
+timings according to vehicle density.
+
+**Key capabilities**
+
+- Real-time vehicle detection
+- Density-based traffic control
+- Dynamic signal timing
+- Sensor-based automation
+- Embedded control logic
+
+Led a 4-member team and received **Top 100 recognition among 1,000+
+university projects** for innovation and practical relevance.
+
+**Tech:** Arduino · C/C++ · Ultrasonic Sensors · Embedded Systems ·
+Real-Time Control
+
+---
+
+## Technical Skills
+
+### Programming
+Python · SQL · JavaScript · C/C++
+
+### AI / Machine Learning
+Machine Learning · Predictive Modeling · XGBoost · Scikit-learn ·
+Feature Engineering · Model Evaluation · Statistical Analysis
+
+### Generative AI
+LLMs · Generative AI · RAG · GraphRAG · NLP · LangChain ·
+Vector Retrieval · Prompt Engineering
+
+### Data
+Pandas · NumPy · Data Analysis · EDA · Data Mining ·
+Data Visualization
+
+### Software Development
+REST APIs · Django · API Development · Application Testing ·
+Object-Oriented Programming · SDLC
+
+### Tools & Platforms
+Git · GitHub · Streamlit · PyCharm · Power BI · Tableau · Excel
+
+---
+
+## Research Publication
+
+### Identification of Algorithm Using AI/ML Dataset
+
+Published research work exploring the identification of algorithms using
+AI/ML datasets.
+
+**Journal:** Journal of Emerging Technologies and Innovative Research
+(JETIR) · 2025
+
+🔗 [View Publication](https://www.jetir.org/view?paper=JETIR2511252)
+
+---
+
+## Certifications & Achievements
+
+- Data Science Internship — Ai Variant
+- NASSCOM Certification
+- Google Data Analytics Professional Certificate
+- SQL HackerRank — Top 5%
+- Best Final Year Project Recognition
+- Top 100 University Projects — Arduino Traffic Control System
+
+---
+
+## Engineering Philosophy
+
+> Build systems that are useful, measurable, maintainable, and grounded in
+> real-world problems.
+
+I am particularly interested in opportunities involving:
+
+**AI/ML Engineering · Generative AI · Software Development ·
+Data Science · Machine Learning**
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://sangamesh0121.vercel.app/">
+    Portfolio
+  </a>
+  ·
+  <a href="https://www.linkedin.com/in/h-sangamesh/">
+    LinkedIn
+  </a>
+  ·
+  <a href="https://github.com/sangamesh-4">
+    GitHub
+  </a>
 </p>
